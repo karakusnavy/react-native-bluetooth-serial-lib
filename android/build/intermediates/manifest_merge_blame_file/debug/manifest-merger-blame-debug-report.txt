@@ -1,0 +1,20 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.rusel.RCTBluetoothSerial"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="18"
+8-->C:\Users\Samet\Desktop\rnbluetoothfix\node_modules\react-native-bluetooth-serial\android\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="27" />
+9-->C:\Users\Samet\Desktop\rnbluetoothfix\node_modules\react-native-bluetooth-serial\android\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.BLUETOOTH" />
+11-->C:\Users\Samet\Desktop\rnbluetoothfix\node_modules\react-native-bluetooth-serial\android\src\main\AndroidManifest.xml:2:5-68
+11-->C:\Users\Samet\Desktop\rnbluetoothfix\node_modules\react-native-bluetooth-serial\android\src\main\AndroidManifest.xml:2:22-65
+12    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+12-->C:\Users\Samet\Desktop\rnbluetoothfix\node_modules\react-native-bluetooth-serial\android\src\main\AndroidManifest.xml:3:5-74
+12-->C:\Users\Samet\Desktop\rnbluetoothfix\node_modules\react-native-bluetooth-serial\android\src\main\AndroidManifest.xml:3:22-71
+13
+14</manifest>

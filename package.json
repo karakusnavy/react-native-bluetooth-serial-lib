@@ -1,0 +1,56 @@
+{
+  "_from": "git+https://github.com/heronsystems/react-native-bluetooth-serial.git",
+  "_id": "react-native-bluetooth-serial@1.0.0-rc1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-bluetooth-serial",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "react-native-bluetooth-serial@git+https://github.com/heronsystems/react-native-bluetooth-serial.git",
+    "name": "react-native-bluetooth-serial",
+    "escapedName": "react-native-bluetooth-serial",
+    "rawSpec": "git+https://github.com/heronsystems/react-native-bluetooth-serial.git",
+    "saveSpec": "git+https://github.com/heronsystems/react-native-bluetooth-serial.git",
+    "fetchSpec": "https://github.com/heronsystems/react-native-bluetooth-serial.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/heronsystems/react-native-bluetooth-serial.git#ec69ad4a811b971f862f35c87f8eb93a10d5f57e",
+  "_spec": "react-native-bluetooth-serial@git+https://github.com/heronsystems/react-native-bluetooth-serial.git",
+  "_where": "/Users/adamstrzempa/Desktop/ReactPoland/retro-game",
+  "author": {
+    "name": "Jakub Martyčák",
+    "email": "martycakjakub@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/rusel1989/react-native-bluetooth-serial/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "buffer": "^4.6.0"
+  },
+  "deprecated": false,
+  "description": "'Bluetooth serial for react native'",
+  "homepage": "https://github.com/rusel1989/react-native-bluetooth-serial#readme",
+  "keywords": [
+    "bluetooth",
+    "react-native"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-native-bluetooth-serial",
+  "peerDependencies": {
+    "react-native": ">=0.40"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rusel1989/react-native-bluetooth-serial.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0-rc1"
+}
